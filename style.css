@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: rgb(47, 47, 197);
+}
+h1{
+    color: rgb(221, 221, 255);
+    text-decoration: underline overline;  
+    font-size: 36px;
+}
+p{
+    color: rgb(149, 149, 247);
+    font-size: 25px;
+}
+h2{
+color: rgb(193, 193, 243);
+text-decoration: underline;
+}
+div img{
+    border-radius: 20px;
+    text-decoration: dotted;
+}
+div small{
+    text-decoration: none;
+    color: rgb(24, 24, 78);
+}
